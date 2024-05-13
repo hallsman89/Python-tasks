@@ -1,0 +1,31 @@
+{
+    "questions": [
+      {
+        "question": "It's your birthday, someone gives you a calfskin wallet. How would you respond?",
+        "options": [
+          "I wouldn't accept it. Also I'd report the person who gave it to me to the police.",
+          "I would thank them and accept the gift.",
+          "I'd re-gift it."
+        ],
+        "correct_answer": 0
+      },
+      {
+        "question": "You've got a little boy. He shows you his butterfly collection, plus the killing jar. What do you do?",
+        "options": [
+          "I would sit him down and talk to him about death, and how it is wrong to hurt others.",
+          "I would be grossed out, but would assume he'd grow out of it..",
+          "I would chuckle, and leave him to his hobby."
+        ],
+        "correct_answer": 0
+      },
+      {
+        "question": "You're watching television. Suddenly you realize there is a wasp crawling up your arm. What would you do?",
+        "options": [
+          "I'd try to capture it in a glass, and set it free outside.",
+          "I'd kill it.",
+          "Nothing, I'll pretend it's not there"
+        ],
+        "correct_answer": 0
+      }
+    ]
+}

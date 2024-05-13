@@ -1,0 +1,94 @@
+{
+    "questions": [
+      {
+        "question": "You're in the desert, walking along in the sand when all of the sudden you look down and you see a tortoise. It's crawling toward you. You reach down and flip the tortoise on it's back. The tortoise lays there on it's back, its belly baking in the hot sun, beating its legs trying to turn itself over but it can't. Not without your help -- but you're not helping. Why is that?",
+        "options": [
+          "What do you mean I'm not helping?",
+          "The tortoise must be artificial.",
+          "I just don't really care for animals."
+        ],
+        "correct_answer": 1
+      },
+      {
+        "question": "Describe in single words only the good things that come into your mind about your mother.",
+        "options": [
+          "She's kind, pretty, nurturing...",
+          "There's nothing good about my mother.",
+          "I didn't have mother."
+        ],
+        "correct_answer": 1
+      },
+      {
+        "question": "It's your birthday, someone gives you a calfskin wallet. How would you respond?",
+        "options": [
+          "I wouldn't accept it. Also I'd report the person who gave it to me to the police.",
+          "I would thank them and accept the gift.",
+          "I'd re-gift it."
+        ],
+        "correct_answer": 1
+      },
+      {
+        "question": "You've got a little boy. He shows you his butterfly collection, plus the killing jar. What do you do?",
+        "options": [
+          "I would sit him down and talk to him about death, and how it is wrong to hurt others.",
+          "I would be grossed out, but would assume he'd grow out of it..",
+          "I would chuckle, and leave him to his hobby."
+        ],
+        "correct_answer": 1
+      },
+      {
+        "question": "You're watching television. Suddenly you realize there is a wasp crawling up your arm. What would you do?",
+        "options": [
+          "I'd try to capture it in a glass, and set it free outside.",
+          "I'd kill it.",
+          "Nothing, I'll pretend it's not there"
+        ],
+        "correct_answer": 1
+      },
+      {
+        "question": "You're reading a magazine. You come across a full page nude photo of a man. You show it to your wife. She likes it so much she hangs it on your bedroom wall. What would you do?",
+        "options": [
+          "Are you testing whether I'm a replicant, or a gay?",
+          "I'd suggest a threesome.",
+          "I'd pretend it was all cool, but I'd be secretly offended."
+        ],
+        "correct_answer": 1
+      },
+      {
+        "question": "You become pregnant by a man who runs off with your best friend. You decide to have an abortion. How do you feel?",
+        "options": [
+          "I would never get an abortion. Life is precious.",
+          "I made the right decision. I would feel good about that.",
+          "This would ruin my life. I'd feel guilty forever."
+        ],
+        "correct_answer": 1
+      },
+      {
+        "question": "You're watching an old movie. A banquet is in progress. The guests are enjoying an appetizer of raw oysters. The entree consists of boiled dog stuffed with rice. Why is it that the raw oysters are less acceptable to you than the dish of boiled dog?",
+        "options": [
+          "No! I love dogs! I would definitely think that was worse!",
+          "At least the dog is cooked!",
+          "I had a bad experience with an oyster once."
+        ],
+        "correct_answer": 1
+      },
+      {
+        "question": "In a world where memories can be implanted, how would you define your sense of identity?",
+        "options": [
+          "It is an amalgamation of personal growth and the impact of external influences.",
+          "It is shaped by our experiences, both genuine and manufactured.",
+          "It is a product of pre-programmed information and lacks personal agency."
+        ],
+        "correct_answer": 1
+      },
+      {
+        "question": "My briefcase. Nice, is not it? Department issue. Babyhide. One hundred percent genuine human babyhide.",
+        "options": [
+          "What is wrong with you? That's disgusting, I'm calling the police.",
+          "What factory made that? ",
+          "Great."
+        ],
+        "correct_answer": 1
+      }
+    ]
+}
