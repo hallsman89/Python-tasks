@@ -1,9 +1,8 @@
 # Day 00 - Python Bootcamp
 
-### Exercise 00: Blockchain
+### Exercise 00:
 
-So, right now we don't know much about this blockchain's implementation, all we 
-have is a file with some lines:
+all we have is a file with some lines:
 ```
 00000254b208c0f43409d8dc00439896
 000000434dd5469464f5cafd8ffe3609
@@ -51,7 +50,7 @@ everyone reaches Brenda rapidly is delivering groceries explicitly" or
 "Britain is Great because everyone necessitates".
 
 write a Python script that can be used to decrypt any messages like that. 
-As a result It should be known location in London and should be launchable like this:
+As a result It should be a known location in London and should be launchable like this:
 
 `~$ python decypher.py "Have you delivered eggplant pizza at restored keep?"`
 
